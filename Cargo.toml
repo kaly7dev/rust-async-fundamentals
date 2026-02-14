@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "ex01-basic-async",
+    "ex02-spawn-tasks",
+    "ex03-join-concurrent",
+    "ex04-select-timeout",
+    "ex05-spawn-blocking",
+    "ex06-fixing-serial",
+    "ex07-async-tests",
+]
+resolver = "2"

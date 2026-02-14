@@ -1,0 +1,7 @@
+[package]
+name = "ex05-spawn-blocking"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
